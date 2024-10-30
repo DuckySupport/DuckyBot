@@ -1,2 +1,2 @@
-# DuckyIssues
-Stores issue for the taskboard
+# Ducky Bot
+Stores issues for Ducky on the taskboard
